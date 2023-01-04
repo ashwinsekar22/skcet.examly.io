@@ -1,9 +1,11 @@
 # Answers for Industrial Training Program
 
-This **Repository** contains all the passed out answer for you.
+This **Repository** contains all the passed out answer for the skcet.examly.io
 
 ### **🗒 Note:**
-You must use it only it for reference or to learn.
+  - You must use this only for your reference or to learn. 
+  - Understand the code and try it yourself.
+  - I'll not take responsibility for your lack of programming skills.
 
 ### **⚠ Warning:**
 Do not copy or paste the code directly.
