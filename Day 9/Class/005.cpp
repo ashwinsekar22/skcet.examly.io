@@ -3,8 +3,6 @@
 using namespace std;
 
 int countWays(int x, int n, int num = 1, int sum = 0) {
-  if (num > 20) return 0;
-
   int p = pow(num,n);
   int total = 0;
 
