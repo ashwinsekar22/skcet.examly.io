@@ -35,7 +35,7 @@ int main() {
       }
     }
 
-    if (hasSequence) continue;
+    if (hasSequence) break;
   }
 
   cout << (hasSequence ? "Yes" : "No");
