@@ -15,20 +15,6 @@ public:
         this->mobNo = mobNo;
     }
 
-    void setName() { cin >> name; }
-
-    void setUsername() { cin >> username; }
-
-    void setPassword() { cin >> password; }
-
-    void setMobNo() { cin >> mobNo; }
-
-    string getName() { return mobNo; }
-
-    string getUsername() { return mobNo; }
-
-    string getPassword() { return mobNo; }
-
     string getMobNo() { return mobNo; }
 
     bool equals(User user)
