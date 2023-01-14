@@ -2,7 +2,6 @@
 
 using namespace std;
 
-
 class A {
 public:
     int noOfTimesCalled = 0;
@@ -16,16 +15,12 @@ public:
 
 class B : public A {
 public:
-    B() {
-        multiplier = 3;
-    }
+    B() { multiplier = 3; }
 };
 
 class C : public A {
 public:
-    C() {
-        multiplier = 5;
-    }
+    C() { multiplier = 5; }
 };
 
 class D {
@@ -33,11 +28,11 @@ public:
     int val = 1;
     int new_val;
 
-    A a; B b; C c;
+    A a;
+    B b;
+    C c;
 
-    D(int val) {
-        new_val = val;
-    }
+    D(int val) { new_val = val; }
 
     // implement the function update_val which sets D's val to new_val
     // by manipulating the value by only calling the func defined in classes A, B and C.
