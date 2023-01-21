@@ -6,7 +6,7 @@ Module: Friend & Structure
 
 ## **Friend & Structure**
 
-### 1.	Create a structure student with the following members
+### $1.$	Create a structure student with the following members
 
   - `Roll Number`
   - `Five subject marks`
