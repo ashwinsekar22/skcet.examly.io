@@ -14,7 +14,7 @@ public:
 
     friend ostream &operator<<(ostream &out, Complex &o)
     {
-        out << "The complex object is " << o.real << " +i" << o.imag;
+        out << "The complex object is " << o.real << "+i" << o.imag;
     }
 };
 
