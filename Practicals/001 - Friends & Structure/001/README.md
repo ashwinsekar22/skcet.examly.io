@@ -40,16 +40,49 @@ The output prints the *roll number, five marks of the subject, average, and grad
 Refer to the sample *input* and *output* for the formatting specifications.
 
 
-```
-Input 1:
+### **Sample testcases:**
 
-12
-24
+### Input 1
+```
+2
+101
+85 78 89 76 67
+102
+58 69 47 69 84
 ```
 
+### Output 1
 ```
-Output 1:
+101 85 78 89 76 67 79 1
+102 58 69 47 69 84 65 2
+```
 
-12
-24
+### Input 2
+```
+1
+122
+25 23 31 28 29
+```
+
+### Output 2
+```
+122 25 23 31 28 29 27 3
+```
+
+### Input 3
+```
+3
+1
+84 85 96 97 80
+2
+65 72 52 46 55
+3
+24 26 30 15 30
+```
+
+### Output 3
+```
+1 84 85 96 97 80 88 1
+2 65 72 52 46 55 58 2
+3 24 26 30 15 30 25 3
 ```

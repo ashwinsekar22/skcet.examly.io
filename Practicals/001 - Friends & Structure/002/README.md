@@ -6,7 +6,7 @@ Module: Friend & Structure
 
 ## **Friend & Structure**
 
-### 2. In an online grocery shop, customers want to purchase multiple items.
+### $2.$ In an online grocery shop, customers want to purchase multiple items.
 
   - Create a structure to store the
     - `Item code`
@@ -36,3 +36,69 @@ Module: Friend & Structure
 
 
 Refer to the sample *input* and *output* for the formatting specifications.
+
+### **Sample testcases**
+
+
+**Input 1**
+```
+2
+101 philsbury flour 10 55
+102 dettol soap 50 25
+```
+**Output 1**
+```
+soap costs more than 1000
+1800
+No voucher
+```
+
+
+**Input 2**
+```
+2
+101 philsbury flour 10 55
+102 dettol soap 500 25
+```
+**Output 2**
+```
+soap costs more than 1000
+13050
+You have won a voucher of Rs.200
+```
+
+
+**Input 3**
+```
+2
+101 philsbury flour 10 55
+102 dettol soap 10 25
+```
+**Output 3**
+```
+800
+No voucher
+```
+
+
+**Input 4**
+```
+12
+101 philsbury flour 10 55
+102 dettol soap 10 25
+103 ponds powder 10 99
+104 lays chips 198 5
+105 maaza drinks 18 50
+106 nescafe coffee 12 75
+107 boost powder 4 195
+108 meera shampoo 498 2
+109 silk shampoo 498 2
+110 horlicks powder 5 195
+111 sunrise coffee 19 50
+112 gokul powder 20 45
+```
+**Output 4**
+```
+10177
+You have won a voucher of Rs.200
+```
