@@ -36,18 +36,3 @@ Module: Friend & Structure
 
 
 Refer to the sample *input* and *output* for the formatting specifications.
-
-
-```
-Input 1:
-
-12
-24
-```
-
-```
-Output 1:
-
-12
-24
-```

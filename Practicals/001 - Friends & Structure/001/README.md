@@ -22,7 +22,7 @@ Given the five subject marks, Calculate the **average** and **grade**.
   2. if *avg 50 to 70* the grade will be $2$
   3. if *avg* is below $50$ the grade will be $3$
 
-#### **NOTE:**
+### **NOTE:**
 
   `rn` - Roll Number, 
   `s` - Subjects,
