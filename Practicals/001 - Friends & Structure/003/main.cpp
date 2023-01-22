@@ -39,9 +39,10 @@ int main() {
     int n;
     cin >> n;
 
+    DEPT dept[n]; // Initializes all the elements from the constructor automatically
+
     for (int i = 0; i < n; i++) {
-        DEPT dept;
-        display(dept);
+        display(dept[i]);
         cout << endl;
     }
 }
