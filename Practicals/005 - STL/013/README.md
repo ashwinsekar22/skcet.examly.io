@@ -11,3 +11,27 @@ Two lines of input.
 
 ### **Output Format:**
 Output is displayed as shown in sample test cases.
+
+### **Sample testcases**
+
+**Input 1**
+```
+5
+c d t h f 
+```
+**Output 1**
+```
+Before sorting: c d t h f 
+After sorting: c d f h t 
+```
+
+**Input 2**
+```
+8
+r f g v d s e w
+```
+**Output 2**
+```
+Before sorting: r f g v d s e w 
+After sorting: d e f g r s v w 
+```

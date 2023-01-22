@@ -29,3 +29,33 @@ public:
 ```
 N > 0 and N < 4
 ```
+
+### **Sample testcases**
+
+**Input 1**
+```
+3 1 2 3
+```
+**Output 1**
+```
+6
+```
+
+**Input 2**
+```
+2 14 56
+```
+
+**Output 2**
+```
+70
+```
+
+**Input 3**
+```
+4 67 89 43 21
+```
+**Output 3**
+```
+Invalid Input
+```

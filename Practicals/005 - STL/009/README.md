@@ -16,3 +16,24 @@ Three lines of input.
 ### **Constraints:**
 `0 < Size of the array <= 10`
 
+
+### **Sample testcases**
+**Input 1**
+```
+6
+1 2 5 9 4 6
+2 8 9 5 4 7
+```
+**Output 1**
+```
+3 10 14 14 8 13
+```
+
+**Input 2**
+```
+-8
+```
+**Output 2**
+```
+-1
+```

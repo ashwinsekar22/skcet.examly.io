@@ -15,3 +15,24 @@ Input consists of *four characters* separated by space.
 
 ### **Output Format:**
 The output prints the *total score*.
+
+
+### **Sample testcases**
+
+**Input 1**
+```
+A F K R
+```
+**Output 1**
+```
+Score : 40
+```
+
+**Input 2**
+```
+A b D f
+```
+**Output 2**
+```
+Score : 10
+```

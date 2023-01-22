@@ -19,3 +19,28 @@ In the main method, prompt the user to enter the power *rate of the appliance* a
 The output prints the **bill amount**.
 
 Refer to the sample *input* and *output* for the formatting specifications.
+
+
+### **Sample testcases**
+
+**Input 1**
+```
+40 123
+55 200
+33 400
+```
+**Output 1**
+```
+43.68
+```
+
+**Input 2**
+```
+60 300
+54 360
+30 720
+```
+**Output 2**
+```
+88.56
+```

@@ -14,3 +14,32 @@ The input consists of an Integer.
 
 ### **Output Format:**
 The output prints the result.
+
+### **Sample testcases**
+
+**Input 1**
+```
+5
+```
+**Output 1**
+```
+100
+```
+
+**Input 2**
+```
+4
+```
+**Output 2**
+```
+80
+```
+
+**Input 3**
+```
+5
+```
+**Output 3**
+```
+100
+```
