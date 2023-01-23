@@ -24,3 +24,23 @@ The first line of the input consists of an integer $N$.
 
 ### **Output format**
 Output "**Yes**" (*without quotes*) if you can make a right triangle using $N$ dots, otherwise "**No**" (*without quotes*).
+
+### **Sample testcases**
+**Input 1**
+```
+6
+```
+
+**Output 1**
+```
+We can create Right Triagle of dots with 6 dots
+```
+**Input 2**
+```
+4
+```
+
+**Output 2**
+```
+We can't create Right Triagle of dots with 4 dots
+```
