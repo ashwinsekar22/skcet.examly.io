@@ -1,5 +1,5 @@
 # Practicals Preparation Questions
-## **String**
+## **Pointer**
 
 ### $23.$ Write a program to sort a set of strings using pointers.
 
