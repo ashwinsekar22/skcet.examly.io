@@ -3,10 +3,24 @@
 ## Part B
 
 ### **Jump to**
+<div style="display: flex;">
+  <div>
+
   - [Question 5](#question-5)
   - [Question 10](#question-10)
   - [Question 15](#question-15)
+
+  </div>
+
+  <div>
+
   - [Question 20](#question-20)
+  - [Question 25](#question-25)
+  - [Question 30](#question-30)
+
+  </div>
+</div>
+
 
 ---
 ## Question 1
