@@ -920,3 +920,31 @@ int main() {
   child.mul();
 }
 ```
+
+---
+## Question 34
+Develop a C++ program to add two distance objects (_members are feet and
+distance_) using **operator overloading** and **friend** functions.
+
+#### Sample input:
+  - First distance object - 2 feet, 32 inches
+  - Second distance object- 1 feet, 10 inches
+#### Output:
+```c
+6 feet 6 inches.
+```
+
+### Answer
+```cpp
+#include <iostream>
+using namespace std;
+
+
+int main() {
+  Child2 child;
+  child.read();
+  child.add();
+  child.sub();
+  child.mul();
+}
+```
