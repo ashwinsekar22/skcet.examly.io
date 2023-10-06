@@ -26,7 +26,8 @@ public:
 class Resident : public Person, public Student {
 public:
     Resident() {
-        cin >> name >> age >> studentId;
+        getline(cin,name);
+        cin >>  age >> studentId;
     }
 
     void display() {
@@ -34,8 +35,6 @@ public:
         Student::display();
     }
 };
-
-// 1 Test Case Failed
 int main() {
     Resident r;
     r.display();
